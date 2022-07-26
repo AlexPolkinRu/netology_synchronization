@@ -7,7 +7,7 @@ import java.util.concurrent.*;
 
 public class Main {
 
-    public static void main(String[] args) throws ExecutionException, InterruptedException {
+    public static void main(String[] args) {
 
         final int NUMBER_OF_BUYERS = 5;
         final int NUMBER_OF_CARFACTORIES = 1;
